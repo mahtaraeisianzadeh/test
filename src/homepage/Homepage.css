@@ -1,0 +1,89 @@
+
+.del{
+    color:rgb(47, 47, 47);
+  margin-left: 43%;
+   
+}
+
+.basket{
+  margin-top: 40px;
+  margin-left: 20px;
+  color:rgb(47, 47, 47) ;
+}
+
+.input{
+  width: 400px;
+  height: 35px;
+  margin-right: 8px;
+  border-radius: 3rem;
+  border-color: yellow;
+  background-color: rgb(247, 247, 210);
+}
+
+.search{
+height: 33px;
+border-radius: 8rem;
+border-color: yellow;
+background-color: rgb(247, 247, 210);
+}
+
+.searchinput{
+  margin-bottom: 15px;
+  margin-left: 730px;
+
+}
+
+.foodphoto{
+  margin-top: 80px;
+  margin-bottom: 20px;
+  margin-left: 160px;
+  width: 900px ;
+  height: 400px ;
+  border-radius: 2rem;
+}
+
+.option{
+  justify-content: center;
+  display:flex ;
+ 
+}
+
+.box{
+  margin-top: 30px;
+  background-color: rgb(252, 252, 118);
+  font-size:medium;
+ padding-top: 20px;
+ padding-bottom: 30px;
+}
+
+.insta{
+  display: inline;
+  font-size:medium;
+  padding-left: 5px;
+}
+
+.bm-burger-bars {
+  background: #373a47;
+}
+  
+  .bm-burger-bars-hover {
+    background: #a90000;
+  }
+  .bm-burger-bars-hover {
+    background: #a90000;
+  }
+  
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+  }
+  
+  .bm-menu {
+    background: #373a47;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+  }
+
+  .menu-item{
+    margin-top: 20px;
+  }

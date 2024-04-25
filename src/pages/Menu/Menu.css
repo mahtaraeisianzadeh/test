@@ -1,0 +1,47 @@
+.zoom {
+    transition: transform .2s;
+    width: 350px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-left: 40px;
+    border-radius: 2rem;
+    text-decoration: none;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5); 
+  }
+
+  .ho{
+    margin-top: 70px;
+    justify-content: center;
+
+  }
+
+.tx{
+  margin-top: 20px;
+}
+
+  .text{
+    display: inline;
+    margin-left: 190px;
+    
+  }
+
+  .text2{
+    display: inline;
+    margin-left: 100px;
+   
+  }
+
+  .text3{
+    display: inline;
+    margin-left: 240px;
+    
+  }
+
+
+  

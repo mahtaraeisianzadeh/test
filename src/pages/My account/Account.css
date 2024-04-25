@@ -1,0 +1,42 @@
+.box2{
+    background-color: rgb(252, 252, 118);
+    height: 500px;
+    width: 450px;
+   padding-left: 20px;
+   border-radius: 1rem;
+   padding-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 380px;
+}
+
+h3{
+    padding-left: 43%;
+}
+
+.input1{
+margin-left: 7%;
+border-color: gray;
+padding-top: 8px;
+width: 70%;
+}
+
+.px{
+    padding-left: 7%;
+    padding-top: 20px;
+    font-size: medium;
+
+}
+
+
+
+.nam{
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: orange;
+  color: white;
+  margin-left: 15px;
+  width: 90%;
+  margin-top: 30px;
+}
